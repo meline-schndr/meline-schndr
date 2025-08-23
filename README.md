@@ -1,10 +1,10 @@
 <h2> 👋🏻 Hi, I'm Mel! <img src="https://www.pngall.com/wp-content/uploads/15/Cute-Frog-PNG-Cutout.png" width="40"></h2>
 <img align='right' src="https://github.com/adrien-schndr/adrien-schndr/blob/main/girl.png" width="230">
-<p><em>₊˚✩˚₊ Engineering school student at <a href="https://www-ensibs.univ-ubs.fr/fr/index.html">Polytech Bretagne</a><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> 
+<p><em>₊˚✩˚₊ (Former) Cyberdefense student at <a href="https://www-ensibs.univ-ubs.fr/fr/index.html">Polytech Bretagne (ENSIBS)</a>.<br />Now it's time to be a doctor in EDS!<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> 
 </em></p>
 
 
-### [🌐 Project Website](https://mel.schndr.pro/spotify-player)
+### [🌐 Project Website](https://melin0ke.com/)
 
 
 

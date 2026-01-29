@@ -13,8 +13,8 @@
 ```javascript
 const mel = {
   pronouns: "she" | "her",
-  age: 18,
-  code: [Javascript, Typescript, HTML, CSS, Python],
+  age: 19,
+  code: [Rust, C, Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Node, Linux, Docker],
   project: "I am currently working on a website made with \
             react and typescript (back-end & front-end)",
